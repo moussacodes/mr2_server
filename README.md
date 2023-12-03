@@ -25,24 +25,8 @@ sudo npm run db:dev:rm
 #stop docker container, then start it, and migrate prisma
 sudo npm run db:dev:restart
 
+
 ```
 
-## Test
+- Author - [moussacodes](https://github.com/moussacodes)
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Stay in touch
-
-- Author - [duckduckcodes](https://github.com/duckduckcodes)
-
-
->   P1000: remove local postgres in your computer
